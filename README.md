@@ -1,2 +1,2 @@
 # bertie
-sample rebar project
+A sample rebar project.
